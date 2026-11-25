@@ -1,0 +1,219 @@
+[
+  {
+    "seccion": "01 · Hero Pop Art",
+    "idSeccion": "inicio",
+    "imagenes": [
+      {
+        "src": "https://images.unsplash.com/photo-1780766136511-dbacfcd8246a?auto=format&fit=crop&w=500&q=80",
+        "alt": "Vinilo Pop Art",
+        "colorMarco": "bg-[#00E5FF]"
+      },
+      {
+        "src": "https://images.unsplash.com/photo-1789496820224-37b9f405fbe7?auto=format&fit=crop&w=500&q=80",
+        "alt": "Concierto en vivo",
+        "colorMarco": "bg-[#FF0055]"
+      },
+      {
+        "src": "https://images.unsplash.com/photo-1789496820224-37b9f405fbe7?auto=format&fit=crop&w=500&q=80",
+        "alt": "Escenario Pop",
+        "colorMarco": "bg-[#FFE600]"
+      },
+      {
+        "src": "https://images.unsplash.com/photo-1780766136511-dbacfcd8246a?auto=format&fit=crop&w=500&q=80",
+        "alt": "Cultura Vinilo",
+        "colorMarco": "bg-[#0047FF]"
+      }
+    ]
+  },
+  {
+    "seccion": "02 · Lineup Principal",
+    "idSeccion": "lineup",
+    "tipo": "tarjeta-lineup",
+    "horario": "Vie · 21:00",
+    "colorHorario": "bg-[#FFE600]",
+    "artista": "The Pixels",
+    "descripcion": "Synth-pop y visuales retro en el escenario central.",
+    "colorTargeta": "bg-black"
+  },
+  {
+    "seccion": "02 · Lineup Principal",
+    "idSeccion": "lineup",
+    "tipo": "tarjeta-lineup",
+    "horario": "Vie · 23:00",
+    "colorHorario": "bg-[#FF0055]",
+    "artista": "Neon Wave",
+    "descripcion": "Electro-funk directo desde Madrid.",
+    "colorTargeta": " bg-[#FFE600]"
+  },
+  {
+    "seccion": "02 · Lineup Principal",
+    "idSeccion": "lineup",
+    "tipo": "tarjeta-lineup",
+    "horario": "Sáb · 20:30",
+    "colorHorario": "bg-[#0047FF]",
+    "artista": "Luna Pop",
+    "descripcion": "Indie pop con estética cómic en vivo.",
+    "colorTargeta": "bg-white"
+  },
+  {
+    "seccion": "02 · Lineup Principal",
+    "idSeccion": "lineup",
+    "tipo": "tarjeta-lineup",
+    "horario": "Sáb · 22:30",
+    "colorHorario": "bg-white",
+    "artista": "DJ Halftone",
+    "descripcion": "Sesión 100% vinilos disco y house.",
+    "colorTargeta": "bg-[#0047FF]"
+  },
+  {
+    "seccion": "02 · Lineup Principal",
+    "idSeccion": "lineup",
+    "tipo": "tarjeta-lineup",
+    "horario": "Dom · 19:00",
+    "colorHorario": "[#FF0055]",
+    "artista": "Retro Kit",
+    "descripcion": "Guitarras garage y energía de los 60s.",
+    "colorTargeta": "bg-white"
+  },
+  {
+    "seccion": "02 · Lineup Principal",
+    "idSeccion": "lineup",
+    "tipo": "tarjeta-lineup",
+    "horario": "Dom · 21:30",
+    "colorHorario": "bg-[#00E5FF]",
+    "artista": "Sonic Ink",
+    "descripcion": "Cierre explosivo con banda y muralistas.",
+    "colorTargeta": "bg-[#FFE600]"
+  },
+  {
+    "seccion": "03 · Zonas de Arte",
+    "idSeccion": "galeria",
+    "tipo": "tarjeta-galeria",
+    "zona": "ZONA A",
+    "colorZona": "bg-[#FFE600]",
+    "titulo": "Feria del Vinilo",
+    "descripcion": "Más de 40 stands con ediciones limitadas, portadas clásicas y tornamesas.",
+    "imagen": "https://images.unsplash.com/photo-1780766136511-dbacfcd8246a?auto=format&fit=crop&w=700&q=80",
+    "alt": "Mercado de Vinilos",
+    "colorCard": "bg-white"
+  },
+  {
+    "seccion": "03 · Zonas de Arte",
+    "idSeccion": "galeria",
+    "tipo": "tarjeta-galeria",
+    "zona": "ZONA B",
+    "colorZona": "bg-[#FF0055]",
+    "titulo": "Murales en Vivo",
+    "descripcion": "12 ilustradores Pop Art pintando lienzos gigantes frente al público.",
+    "imagen": "https://images.unsplash.com/photo-1789496820224-37b9f405fbe7?auto=format&fit=crop&w=700&q=80",
+    "alt": "Escenario Pop",
+    "colorCard": "bg-[#FFE600]"
+  },
+  {
+    "seccion": "03 · Zonas de Arte",
+    "idSeccion": "galeria",
+    "tipo": "tarjeta-galeria",
+    "zona": "ZONA C",
+    "colorZona": "bg-white",
+    "titulo": "Museo Cómic",
+    "descripcion": "Cabinas de fotos estilo historieta y exhibición de serigrafía.",
+    "imagen": null,
+    "alt": "Ilustración Pop Art de Cómic POW!",
+    "colorCard": "bg-[#00E5FF]"
+  },
+  {
+    "seccion": "04 · Entradas",
+    "idSeccion": "entradas",
+    "tipo": "tarjeta-entrada",
+    "badge": null,
+    "nombrePase": "Pase Día",
+    "colorNombrePase": "bg-white",
+    "precio": "$35",
+    "beneficios": [
+      "Acceso general 1 día",
+      "Todos los escenarios",
+      "Feria del vinilo y murales"
+    ],
+    "textoBoton": "Comprar Día",
+    "colorButton": "bg-white",
+    "colorTargeta": "bg-[#00E5FF]"
+  },
+  {
+    "seccion": "04 · Entradas",
+    "idSeccion": "entradas",
+    "tipo": "tarjeta-entrada",
+    "badge": "TOP!",
+    "nombrePase": "Full VIP 3 Días",
+    "colorNombrePase": "bg-black",
+    "precio": "$85",
+    "beneficios": [
+      "Acceso los 3 días sin filas",
+      "Póster serigrafiado oficial",
+      "Zona lounge y barra libre"
+    ],
+    "textoBoton": "Comprar VIP",
+    "colorButton": "bg-[#FF0055]",
+    "colorTargeta": "bg-[#FFE600]"
+  },
+  {
+    "seccion": "04 · Entradas",
+    "idSeccion": "entradas",
+    "tipo": "tarjeta-entrada",
+    "badge": null,
+    "nombrePase": "Pack x4 Amigos",
+    "colorNombrePase": "bg-[#FFE600]",
+    "precio": "$120",
+    "beneficios": [
+      "4 pases generales de 1 día",
+      "Totebag Pop Art de regalo",
+      "Descuento en merch oficial"
+    ],
+    "textoBoton": "Comprar Pack",
+    "colorButton": "bg-white",
+    "colorTargeta": "bg-[#FF0055]"
+  },
+  {
+    "seccion": "05 · El Recinto",
+    "idSeccion": "horarios",
+    "tipo": "tarjeta-recinto",
+    "cantidad": "12",
+    "titulo": "Murales Gigantes",
+    "colorTargeta": "bg-[#00E5FF]"
+  },
+  {
+    "seccion": "05 · El Recinto",
+    "idSeccion": "horarios",
+    "tipo": "tarjeta-recinto",
+    "cantidad": "18",
+    "titulo": "Food Trucks",
+    "colorTargeta": "bg-[#FF0055]"
+  },
+  {
+    "seccion": "06 · Únete al Club",
+    "idSeccion": "contacto",
+    "tipo": "formulario-club",
+    "badge": "VIP",
+    "descripcion": "Recibe preventas secretas, horarios oficiales y un 15% de descuento en merchandising.",
+    "campos": [
+      {
+        "nombre": "nombre",
+        "tipo": "text",
+        "placeholder": "Tu Nombre"
+      },
+      {
+        "nombre": "correo",
+        "tipo": "email",
+        "placeholder": "tu@correo.com"
+      }
+    ],
+    "textoBoton": "¡Quiero mi Descuento!"
+  },
+  {
+    "seccion": "06 · Únete al Club",
+    "idSeccion": "contacto",
+    "tipo": "panel-visual-club",
+    "badgeComic": "BAM!",
+    "titulo": "¡Nos vemos en el Parque Central!",
+    "fecha": "14, 15 y 16 de Noviembre · 2026"
+  }
+]
